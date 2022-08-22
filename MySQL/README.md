@@ -1,0 +1,2 @@
+- database of the project  
+- environment: MySQL Workbench
